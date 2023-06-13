@@ -1,0 +1,14 @@
+* {
+    line-height: 1.5;
+}
+div.bold-text {
+    font-weight: 700;
+}
+
+img {
+    height:  200px;
+}
+
+ul {list-style: none;}
+
+h1 {color: darkred;}
