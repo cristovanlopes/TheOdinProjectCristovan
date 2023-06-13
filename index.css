@@ -4,6 +4,8 @@
 div.bold-text {
     font-weight: 700;
 }
+/* challenge 1 */
+
 
 img {
     height:  200px;
@@ -12,3 +14,31 @@ img {
 ul {list-style: none;}
 
 h1 {color: darkred;}
+
+
+/* challenge 2
+1 style the recipe card so that it has a
+    background color #FFFAFA
+    text is aligned center 
+2 set text inside recipe-cont to align left */
+
+.recipe-card {
+    width: 400px;
+    background-color: #FFFAFA;
+    text-align: center;
+}
+.recipe-content {
+    text-align: left;
+    background-color: #fc9400;
+}
+.recipe-card.feature {
+    border: 2px solid darkred;
+}
+
+
+/* challenge 3
+1 change h2 elements within a ul and li to be 16px
+2 update recipe card link styles, set:
+    background color to #fc9400
+    text color to white 
+    remove underline */
